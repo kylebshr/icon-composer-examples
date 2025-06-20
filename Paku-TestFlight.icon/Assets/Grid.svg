@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Grid</title>
+    <g id="Grid" stroke="none" fill="none" fill-rule="nonzero">
+        <g fill="#FFFFFF">
+            <polygon id="Diagonal" points="1020.46447 -3.53553391 1027.53553 3.53553391 3.53553391 1027.53553 -3.53553391 1020.46447"></polygon>
+            <polygon id="Diagonal" points="3.53553391 -3.53553391 1027.53553 1020.46447 1020.46447 1027.53553 -3.53553391 3.53553391"></polygon>
+            <polygon id="Horizontal" points="1024 507 0 507 0 517 1024 517"></polygon>
+            <polygon id="Horizontal" points="1024 635 0 635 0 645 1024 645"></polygon>
+            <polygon id="Horizontal" points="1024 763 0 763 0 773 1024 773"></polygon>
+            <polygon id="Horizontal" points="1024 891 0 891 0 901 1024 901"></polygon>
+            <polygon id="Horizontal" points="1024 379 0 379 0 389 1024 389"></polygon>
+            <polygon id="Horizontal" points="1024 251 0 251 0 261 1024 261"></polygon>
+            <polygon id="Horizontal" points="1024 123 0 123 0 133 1024 133"></polygon>
+            <polygon id="Vertical" points="507 0 507 1024 517 1024 517 0"></polygon>
+            <polygon id="Vertical" points="389 1024 389 0 379 0 379 1024"></polygon>
+            <polygon id="Vertical" points="261 1024 261 0 251 0 251 1024"></polygon>
+            <polygon id="Vertical" points="133 1024 133 0 123 0 123 1024"></polygon>
+            <polygon id="Vertical" points="645 1024 645 0 635 0 635 1024"></polygon>
+            <polygon id="Vertical" points="773 1024 773 0 763 0 763 1024"></polygon>
+            <polygon id="Vertical" points="901 1024 901 0 891 0 891 1024"></polygon>
+            <path d="M512,97 C741.198424,97 927,282.801576 927,512 C927,741.198424 741.198424,927 512,927 C282.801576,927 97,741.198424 97,512 C97,282.801576 282.801576,97 512,97 Z M512,107 C288.324424,107 107,288.324424 107,512 C107,735.675576 288.324424,917 512,917 C735.675576,917 917,735.675576 917,512 C917,288.324424 735.675576,107 512,107 Z" id="Circle:-Large"></path>
+            <path d="M512,251 C656.146424,251 773,367.853576 773,512 C773,656.146424 656.146424,773 512,773 C367.853576,773 251,656.146424 251,512 C251,367.853576 367.853576,251 512,251 Z M512,261 C373.376424,261 261,373.376424 261,512 C261,650.623576 373.376424,763 512,763 C650.623576,763 763,650.623576 763,512 C763,373.376424 650.623576,261 512,261 Z" id="Circle:-Medium"></path>
+            <path d="M512,405 C571.094424,405 619,452.905576 619,512 C619,571.094424 571.094424,619 512,619 C452.905576,619 405,571.094424 405,512 C405,452.905576 452.905576,405 512,405 Z M512,415 C458.428424,415 415,458.428424 415,512 C415,565.571576 458.428424,609 512,609 C565.571576,609 609,565.571576 609,512 C609,458.428424 565.571576,415 512,415 Z" id="Circle:-Small"></path>
+        </g>
+    </g>
+</svg>
