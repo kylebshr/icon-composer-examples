@@ -24,7 +24,7 @@
               "appearance" : "dark",
               "value" : {
                 "linear-gradient" : [
-                  "display-p3:0.17018,0.68097,0.97255,0.95000",
+                  "display-p3:0.23874,0.66216,0.97255,0.95000",
                   "display-p3:0.08658,0.64833,0.97255,1.00000"
                 ]
               }
@@ -84,7 +84,13 @@
           ],
           "glass" : false,
           "image-name" : "Grid.svg",
-          "name" : "Grid"
+          "name" : "Grid",
+          "opacity-specializations" : [
+            {
+              "appearance" : "dark",
+              "value" : 0.6
+            }
+          ]
         }
       ],
       "lighting" : "individual",

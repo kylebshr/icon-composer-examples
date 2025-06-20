@@ -10,4 +10,4 @@ Icons should illustrate something slightly outside of a typical “glyph over a 
 
 | Light | Dark |
 |-|-|
-| ![Paku Blueprint Light](Paku-Blueprint-Light.png) | ![Paku Blueprint Dark](Paku-Blueprint-Dark.png) |
+| ![Paku Blueprint Light](Paku-TestFlight-Light.png) | ![Paku Blueprint Dark](Paku-TestFlight-Dark.png) |
